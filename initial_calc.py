@@ -3,7 +3,7 @@
 ---------------------
 Summary:
 
-Software that calculates the odds for things occurring in your every day life.
+Software that calculates the odds for things occurring in every day life.
 ---------------------
 
 ((( Chances of Hooking Up )))
